@@ -1,4 +1,4 @@
-*.png
-*.pdf
-*.txt
-solve.*
+covid-19/*.png
+covid-19/*.pdf
+covid-19/*.txt
+covid-19/solve.*
