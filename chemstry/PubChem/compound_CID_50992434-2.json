@@ -1,0 +1,3183 @@
+{
+  "Record": {
+    "RecordType": "CID",
+    "RecordNumber": 50992434,
+    "RecordTitle": "Trametinib dimethyl sulfoxide-2",
+    "Section": [
+      {
+        "TOCHeading": "Structures",
+        "Description": "Structure depictions of this compound, including computationally generated two-dimensional (2D) and three-dimensional (3D) structures, as well as experimentally determined 3D single-crystal structures.",
+        "Section": [
+          {
+            "TOCHeading": "2D Structure",
+            "Description": "A two-dimensional (2D) structure representation of the compound.  Because this structure is processed through chemical structure standardization (Hähnke et al., J. Cheminform. 2018, 10, 36), it is not necessarily the same as the structures provided by individual data contributors.  ",
+            "URL": "https://doi.org/10.1186/s13321-018-0293-8",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "3D Conformer",
+            "Description": "A three-dimensional (3D) structure representation of the compound.  This 3D structure is not experimentally determined, but computed by PubChem.  This structure may or may not be the same as the inherent structure of the compound you would expect to see in vacuum or in the gas phase, because the underlying computational algorithm aims to generate a protein-bound structure, which would be observed in a protein-ligand complex.  More detailed information on this conformer model can be found in Kim et al., J. Cheminform. 2013, 5, 1.",
+            "URL": "https://doi.org/10.1186/1758-2946-5-1",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "3D Conformer of Parent",
+                "Description": "Trametinib",
+                "Value": {
+                  "Number": [
+                    11707110
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Safety",
+        "Description": "Link to the Safety and Hazard section of this page and link to the Laboratory Chemical Safety Summary (LCSS) datasheet for this compound.",
+        "DisplayControls": {
+          "HideThisSection": true,
+          "MoveToTop": true
+        },
+        "Information": [
+          {
+            "ReferenceNumber": 26,
+            "Name": "Chemical Safety",
+            "Value": {
+              "StringWithMarkup": [
+                {
+                  "String": "          ",
+                  "Markup": [
+                    {
+                      "Start": 0,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                      "Type": "Icon",
+                      "Extra": "Irritant"
+                    },
+                    {
+                      "Start": 1,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS08.svg",
+                      "Type": "Icon",
+                      "Extra": "Health Hazard"
+                    },
+                    {
+                      "Start": 2,
+                      "Length": 1,
+                      "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS09.svg",
+                      "Type": "Icon",
+                      "Extra": "Environmental Hazard"
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Names and Identifiers",
+        "Description": "Chemical names, synonyms, identifiers, and descriptors.",
+        "Section": [
+          {
+            "TOCHeading": "Record Description",
+            "Description": "Summary Information",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 2,
+                "Name": "Record Description",
+                "Description": "Ontology Summary",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Trametinib dimethyl sulfoxide is an addition compound obtained by combining equimolar amounts of trametinib and dimethyl sulfoxide. Used for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations, and who have not received prior BRAF inhibitor treatment. It has a role as an antineoplastic agent and an EC 2.7.11.24 (mitogen-activated protein kinase) inhibitor. It contains a dimethyl sulfoxide and a trametinib.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Trametinib%20dimethyl%20sulfoxide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        },
+                        {
+                          "Start": 97,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trametinib",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 112,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethyl%20sulfoxide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-679"
+                        },
+                        {
+                          "Start": 423,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethyl%20sulfoxide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-679"
+                        },
+                        {
+                          "Start": 448,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trametinib",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 22,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Trametinib Dimethyl Sulfoxide is a dimethyl sulfoxide (DMSO) solvated form of trametinib, an orally bioavailable inhibitor of mitogen-activated protein kinase kinase (MAP2K; MAPK/ERK kinase; MEK) 1 and 2, with potential antineoplastic activity. Upon oral administration, trametinib specifically binds to and inhibits MEK 1 and 2, resulting in an inhibition of growth factor-mediated cell signaling and cellular proliferation in various cancers. MEK 1 and 2, dual specificity serine/threonine and tyrosine kinases often upregulated in various cancer cell types, play a key role in the activation of the RAS/RAF/MEK/ERK signaling pathway that regulates cell growth.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/Trametinib%20Dimethyl%20Sulfoxide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        },
+                        {
+                          "Start": 35,
+                          "Length": 18,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/dimethyl%20sulfoxide",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-679"
+                        },
+                        {
+                          "Start": 55,
+                          "Length": 4,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/DMSO",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-679"
+                        },
+                        {
+                          "Start": 78,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trametinib",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 191,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEK",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6569"
+                        },
+                        {
+                          "Start": 271,
+                          "Length": 10,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/trametinib",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 317,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEK",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6569"
+                        },
+                        {
+                          "Start": 445,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEK",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6569"
+                        },
+                        {
+                          "Start": 475,
+                          "Length": 6,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/serine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-5951"
+                        },
+                        {
+                          "Start": 482,
+                          "Length": 9,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/threonine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6288"
+                        },
+                        {
+                          "Start": 496,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/tyrosine",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6057"
+                        },
+                        {
+                          "Start": 610,
+                          "Length": 3,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEK",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-6569"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Computed Descriptors",
+            "Description": "Structural descriptors generated or computed for the structures of this compound, including the IUPAC name, InChI/InChIKey, and canonical/isomeric SMILES.",
+            "Section": [
+              {
+                "TOCHeading": "IUPAC Name",
+                "Description": "Chemical name of this compound, computed from its structure based on the International Union of Pure and Applied Chemistry (IUPAC) nomenclature standards.",
+                "URL": "https://iupac.org/what-we-do/nomenclature/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Lexichem TK 2.7.0 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "N-[3-[3-cyclopropyl-5-(2-fluoro-4-iodoanilino)-6,8-dimethyl-2,4,7-trioxopyrido[4,3-d]pyrimidin-1-yl]phenyl]acetamide;methylsulfinylmethane",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChI",
+                "Description": "The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard.",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by InChI 1.0.6 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "InChI=1S/C26H23FIN5O4.C2H6OS/c1-13-22-21(23(31(3)24(13)35)30-20-10-7-15(28)11-19(20)27)25(36)33(17-8-9-17)26(37)32(22)18-6-4-5-16(12-18)29-14(2)34;1-4(2)3/h4-7,10-12,17,30H,8-9H2,1-3H3,(H,29,34);1-2H3"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "InChIKey",
+                "Description": "An InChIKey is a 27-character hash code derived from an InChI.  The International Chemical Identifier (InChI) is a computed, non-proprietary identifier for a chemical structure.  The InChI is an International Union of Pure and Applied Chemistry (IUPAC) standard. ",
+                "URL": "https://iupac.org/who-we-are/divisions/division-details/inchi/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by InChI 1.0.6 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "OQUFJVRYDFIQBW-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Canonical SMILES",
+                "Description": "The Simplified Molecular-Input Line-Entry System (SMILES) is a widely-used line notation for chemical structures.  PubChem computes two kinds of SMILES strings for compounds: canonical SMILES (computed from chemical structures devoid of isotopic and stereochemical information), and isomeric SMILES (computed from chemical structures containing isotopic and stereochemical information).  This section shows the canonical SMILES of the compound.",
+                "URL": "https://www.daylight.com/dayhtml/doc/theory/theory.smiles.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by OEChem 2.3.0 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "CC1=C2C(=C(N(C1=O)C)NC3=C(C=C(C=C3)I)F)C(=O)N(C(=O)N2C4=CC=CC(=C4)NC(=O)C)C5CC5.CS(=O)C"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Molecular Formula",
+            "Description": "A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using a single line of chemical element symbols and numbers. PubChem uses the Hill system, whereby the number of carbon atoms in a molecule is indicated first, the number of hydrogen atoms second, and then the number of all other chemical elements in alphabetical order. When the formula contains no carbon, all the elements, including hydrogen, are listed alphabetically. Sources other than PubChem may include a variant of the formula that is more structural or natural to chemists, for example, H2SO4 for sulfuric acid, rather than the Hill version H2O4S.",
+            "URL": "https://pubs.acs.org/doi/abs/10.1021/ja02046a005",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Reference": [
+                  "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                ],
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "C28H29FIN5O5S"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Other Identifiers",
+            "Description": "Other identifiers assigned to this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "CAS",
+                "Description": "A CAS Registry Number (also called CAS RN or CAS Number) is a proprietary registry number assigned by the Chemical Abstracts Service (CAS) division of the American Chemical Society (ACS).  It is a numeric identifier that can contain up to 10 digits, divided by hyphens into three parts.",
+                "URL": "https://www.cas.org/support/documentation/chemical-substances/faqs",
+                "Information": [
+                  {
+                    "ReferenceNumber": 1,
+                    "URL": "https://commonchemistry.cas.org/detail?cas_rn=1187431-43-1",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1187431-43-1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1187431-43-1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 7,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1187431-43-1"
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1187431-43-1"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Deprecated CAS",
+                "Description": "The Chemical Abstract Service (CAS) registry numbers that are no longer used.  These numbers are old, deprecated, and/or deleted, but users may still encounter them in some (old) references.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 3,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1204531-25-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "European Community (EC) Number",
+                "Description": "The European Community (EC) number is a seven-digit identifier assigned by the European Chemicals Agency (ECHA) to substances for regulatory purposes within the European Union. EC numbers are sometimes referred to as EINECS, ELINCS, or NLP numbers, because the EC Inventory comprises three individual inventories (EINECS, ELINCS, and the NLP list).",
+                "URL": "https://echa.europa.eu/information-on-chemicals/ec-inventory",
+                "Information": [
+                  {
+                    "ReferenceNumber": 10,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "629-898-8"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "UNII",
+                "Description": "UNique Ingredient Identifier (UNII) code for this chemical.  It is a non-proprietary registry number assigned by the U.S. Food and Drug Administration (FDA).",
+                "URL": "https://www.fda.gov/industry/fda-data-standards-advisory-board/fdas-global-substance-registration-system",
+                "Information": [
+                  {
+                    "ReferenceNumber": 20,
+                    "Name": "UNII",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BSB9VJ5TUT"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "DSSTox Substance ID",
+                "Description": "Substance identifier used in the Distributed Structure-Searchable Toxicity (DSSTox) Database.",
+                "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+                "Information": [
+                  {
+                    "ReferenceNumber": 7,
+                    "URL": "https://comptox.epa.gov/dashboard/chemical/details/DTXSID30152223",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "DTXSID30152223"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Wikidata",
+                "Description": "Wikidata entity identifier for the given compound.",
+                "URL": "https://www.wikidata.org/w/index.php?title=Special:WhatLinksHere/Property:P662",
+                "Information": [
+                  {
+                    "ReferenceNumber": 25,
+                    "URL": "https://www.wikidata.org/wiki/Q27145671",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Q27145671"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NCI Thesaurus Code",
+                "Description": "Stable, unique code for biomedical concept",
+                "URL": "https://ncithesaurus.nci.nih.gov",
+                "Information": [
+                  {
+                    "ReferenceNumber": 22,
+                    "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C152711",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "C152711"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "RXCUI",
+                "Description": "RxNorm concept unique identifier (RXCUI)",
+                "URL": "https://www.nlm.nih.gov/research/umls/rxnorm/index.html",
+                "Information": [
+                  {
+                    "ReferenceNumber": 23,
+                    "URL": "https://rxnav.nlm.nih.gov/id/rxnorm/1425098",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1425098"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Synonyms",
+            "Description": "Alternative names for this PubChem Compound record.  A compound can have many different names.  For example, acetone (CH3C(=O)CH3) is also known as propanone, propan-2-one, or dimethyl ketone.  The brand name of a product is commonly used to indicate the primary chemical ingredient(s) in the product (e.g., Tylenol, a common pain killer, is often used for acetaminophen, its active ingredient).  Another example of common synonyms is record identifiers used in different data collections, such as Chemical Abstract Service (CAS) registry numbers, FDA UNII (Unique Ingredient Identifiers), and many others.  All these various names and identifiers that designate this compound are organized under the Synonyms section.",
+            "Section": [
+              {
+                "TOCHeading": "Depositor-Supplied Synonyms",
+                "Description": "Chemical names provided by individual data contributors. Synonyms of Substances corresponding to a PubChem Compound record are combined. Some contributed names may be considered erroneous and filtered out. The link on each synonym shows which depositors provided that particular synonym for this structure.",
+                "DisplayControls": {
+                  "ListType": "Columns",
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "1187431-43-1"
+                        },
+                        {
+                          "String": "Trametinib DMSO solvate"
+                        },
+                        {
+                          "String": "Trametinib DMSO"
+                        },
+                        {
+                          "String": "TRAMETINIB DIMETHYL SULFOXIDE"
+                        },
+                        {
+                          "String": "UNII-BSB9VJ5TUT"
+                        },
+                        {
+                          "String": "Trametinib (DMSO solvate)"
+                        },
+                        {
+                          "String": "GSK1120212B"
+                        },
+                        {
+                          "String": "CHEBI:75991"
+                        },
+                        {
+                          "String": "BSB9VJ5TUT"
+                        },
+                        {
+                          "String": "N-(3-(3-Cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2H)-yl)phenyl)acetamide compound with (methylsulfinyl)methane (1:1)"
+                        },
+                        {
+                          "String": "Mekinst"
+                        },
+                        {
+                          "String": "N-[3-[3-cyclopropyl-5-(2-fluoro-4-iodoanilino)-6,8-dimethyl-2,4,7-trioxopyrido[4,3-d]pyrimidin-1-yl]phenyl]acetamide;methylsulfinylmethane"
+                        },
+                        {
+                          "String": "Mekinist (TN)"
+                        },
+                        {
+                          "String": "GSK-1120212B"
+                        },
+                        {
+                          "String": "Trametinib dimethyl sulfoxide [USAN]"
+                        },
+                        {
+                          "String": "SCHEMBL1516331"
+                        },
+                        {
+                          "String": "CHEMBL2105741"
+                        },
+                        {
+                          "String": "DTXSID30152223"
+                        },
+                        {
+                          "String": "JTP-74057 (DMSO solvate)"
+                        },
+                        {
+                          "String": "C26H23FIN5O4.C2H6OS"
+                        },
+                        {
+                          "String": "AMY30057"
+                        },
+                        {
+                          "String": "BCP06093"
+                        },
+                        {
+                          "String": "EX-A5800"
+                        },
+                        {
+                          "String": "4126AH"
+                        },
+                        {
+                          "String": "GSK-1120212 (DMSO solvate)"
+                        },
+                        {
+                          "String": "HY-10999A"
+                        },
+                        {
+                          "String": "MFCD21609250"
+                        },
+                        {
+                          "String": "s4484"
+                        },
+                        {
+                          "String": "CS-0061"
+                        },
+                        {
+                          "String": "AC-30850"
+                        },
+                        {
+                          "String": "AS-17069"
+                        },
+                        {
+                          "String": "Trametinib dimethyl sulfoxide (JAN/USAN)"
+                        },
+                        {
+                          "String": "FT-0696678"
+                        },
+                        {
+                          "String": "D10176"
+                        },
+                        {
+                          "String": "J-524976"
+                        },
+                        {
+                          "String": "Q27145671"
+                        },
+                        {
+                          "String": "Acetamide, N-(3-(3-cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-3,4,6,7-tetrahydro-6,8- dimethyl-2,4,7-trioxopyrido(4,3-d)pyrimidin-1(2H)-yl)phenyl)-, compd. with 1,1'- sulfinylbis(methane) (1:1)"
+                        },
+                        {
+                          "String": "Equimolecular combination of N-(3-(3-cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-6,8- dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido(4,3-d)pyrimidin-1(2H)- yl)phenyl)acetamide with dimethyl-lambda(sup 4)-sulfanone"
+                        },
+                        {
+                          "String": "N-(3-(3-Cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2H)-yl)phenyl)acetamide dimethyl sulfoxide complex"
+                        },
+                        {
+                          "String": "N-(3-(3-cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2H)-yl)phenyl)acetamide(methylsulfinyl)methane"
+                        },
+                        {
+                          "String": "N-(3-{3-cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-6,8-dimethyl-2,4,7-trioxo-1H,2H,3H,4H,6H,7H-pyrido[4,3-d]pyrimidin-1-yl}phenyl)acetamide; methanesulfinylmethane"
+                        },
+                        {
+                          "String": "N-(3-{3-cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2H)-yl}phenyl)acetamide--(methylsulfinyl)methane (1/1)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Removed Synonyms",
+                "Description": "Potentially erroneous chemical names and identifiers provided by PubChem Substance records for the same chemical structure that were removed by name/structure consistency filtering.",
+                "DisplayControls": {
+                  "HideThisSection": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Trametinib"
+                        },
+                        {
+                          "String": "Mekinist"
+                        },
+                        {
+                          "String": "GSK1120212"
+                        },
+                        {
+                          "String": "JTP 74057"
+                        },
+                        {
+                          "String": "GSK-1120212 DMSO solvate"
+                        },
+                        {
+                          "String": "OQUFJVRYDFIQBW-UHFFFAOYSA-N"
+                        },
+                        {
+                          "String": "AOB87798"
+                        },
+                        {
+                          "String": "KS-00000LF6"
+                        },
+                        {
+                          "String": "GSK 1120212B"
+                        },
+                        {
+                          "String": "ACN-041326"
+                        },
+                        {
+                          "String": "GSK-1120212"
+                        },
+                        {
+                          "String": "AK340973"
+                        },
+                        {
+                          "String": "A3887"
+                        },
+                        {
+                          "String": "W-5848"
+                        },
+                        {
+                          "String": "ethyl 2-cyano-3-cyclohex-3-en-1-ylprop-2-enoate"
+                        },
+                        {
+                          "String": "118745-26-9"
+                        },
+                        {
+                          "String": "GSK-1120212 DMSO solvate;Trametinib;JTP-74057;GSK-1120212;GSK1120212;GSK 1120212;JTP 74057;JTP74057"
+                        },
+                        {
+                          "String": "N-(3-(3-cyclopropyl-5-((2-fluoro-4-iodophenyl)amino)-6,8-dimethyl-2,4,7-trioxo-3,4,6,7-tetrahydropyrido[4,3-d]pyrimidin-1(2H)-yl)phenyl)acetamide compound with (methylsulfinyl)methane (1:"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Create Date",
+            "Description": "Date when this compound record was created. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "DateISO8601": [
+                    "2011-04-04"
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Modify Date",
+            "Description": "Date when this compound record was last modified. For more information on various dates for PubChem records, visit the PubChem Record Dates help page.",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/record-dates",
+            "DisplayControls": {
+              "HideThisSection": true,
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "DateISO8601": [
+                    "2022-10-01"
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical and Physical Properties",
+        "Description": "Various chemical and physical properties that are experimentally determined for this compound.  See also the Safety and Hazard Properties section (if available), which has additional properties pertinent to chemical safety and hazards.",
+        "Section": [
+          {
+            "TOCHeading": "Computed Properties",
+            "Description": "Properties of this compound computed from its molecular formula and structure.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 3,
+                "ColumnHeadings": [
+                  "Property Name",
+                  "Property Value",
+                  "Reference"
+                ],
+                "ColumnContents": [
+                  "Name",
+                  "Value",
+                  "Reference"
+                ]
+              }
+            },
+            "Section": [
+              {
+                "TOCHeading": "Molecular Weight",
+                "Description": "Molecular weight or molecular mass refers to the mass of a molecule. It is calculated as the sum of the mass of each constituent atom multiplied by the number of atoms of that element in the molecular formula.  The molecular weight is also called the relative molar mass, because molecular weights are reported in daltons, which is defined relative to the mass of the isotope 12C (carbon 12).",
+                "URL": "https://www.degruyter.com/document/doi/10.1515/pac-2017-1002/html?lang=en",
+                "DisplayControls": {
+                  "MoveToTop": true
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "693.5"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Donor Count",
+                "Description": "The number of hydrogen bond donors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hydrogen Bond Acceptor Count",
+                "Description": "The number of hydrogen bond acceptors in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        8
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Rotatable Bond Count",
+                "Description": "A rotatable bond is defined as any single-order non-ring bond, where atoms on either side of the bond are in turn bound to nonterminal heavy (i.e., non-hydrogen) atoms. That is, where rotation around the bond axis changes the overall shape of the molecule, and generates conformers which can be distinguished by standard fast spectroscopic methods.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        5
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Exact Mass",
+                "Description": "The exact mass of an isotopic species is obtained by summing the masses of the individual isotopes of the molecule.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "693.09182"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Monoisotopic Mass",
+                "Description": "The monoisotopic mass is the sum of the masses of the atoms in a molecule using the unbound, ground-state, rest mass of the principal (most abundant) isotope for each element instead of the isotopic average mass.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem 2.1 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "693.09182"
+                        }
+                      ],
+                      "Unit": "g/mol"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Topological Polar Surface Area",
+                "Description": "The topological polar surface area (TPSA) is an estimate of the polar surface area (in Angstroms^2) of a molecule, computed as the surface sum over polar atoms in the molecule.  The implementation follows the paper by Ertl et al. [J. Med. Chem. 2000, 43, 3714-3717]: only N and O are considered, 3D coordinates are not used, and there are various precomputed factors for different hybridizations, charges and participation in aromatic systems.",
+                "URL": "https://pubmed.ncbi.nlm.nih.gov/11020286/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        138
+                      ],
+                      "Unit": "Å²"
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Heavy Atom Count",
+                "Description": "The number of heavy atoms (i.e., non-hydrogen atoms) in this compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        41
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Formal Charge",
+                "Description": "Formal charge is the difference between the number of valence electrons of each atom and the number of electrons the atom is associated with. Formal charge assumes any shared electrons are equally shared between the two bonded atoms.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Complexity",
+                "Description": "The complexity rating of a compound is a rough estimate of how complicated a structure is, seen from both the point of view of the elements contained and the displayed structural features including symmetry. This complexity rating is computed using the Bertz/Hendrickson/Ihlenfeldt formula.",
+                "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/glossary$complexity",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by Cactvs 3.4.8.18 (PubChem release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "Number": [
+                        1120
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Isotope Atom Count",
+                "Description": "Isotope atom count is the number of isotopes that are not most abundant for the corresponding chemical elements.  Isotopes are variants of a chemical element which differ in neutron number.  For example, among three isotopes of carbon (i.e., C-12, C-13, and C-14), the isotope atom count considers the C-13 and C-14 atoms, because C-12 is the most abundant isotope of carbon.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Atom Stereocenter Count",
+                "Description": "An atom stereocenter, also known as a chiral center, is an atom that is attached to four different types of atoms (or groups of atoms) in the tetrahedral arrangement. It can have either (R)- or (S)- configurations.  Some compounds, such as racemic mixtures, have an undefined atom stereocenter, whose (R/S)-configuration is not specifically defined.  The \"defined atom stereocenter count\" is the number of atom stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Atom Stereocenter Count",
+                "Description": "The number of atom stereocenters whose configurations are not specifically defined.  For the definition of atom stereocenters, see the \"defined atom stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Defined Bond Stereocenter Count",
+                "Description": "A bond stereocenter is a non-rotatable bond around which two atoms can have different arrangement (as in cis- and trans-forms of butene around its double bond).  Some compounds have an undefined bond stereocenter, whose stereochemistry is not specifically defined.  The \"defined bond stereocenter count\" is the number of bond stereocenters whose configurations are specifically defined.  ",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Undefined Bond Stereocenter Count",
+                "Description": "The number of bond stereocenters whose configurations are not specifically defined.  For the definition of bond stereocenters, see the \"defined bond stereocenter count\" above.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        0
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Covalently-Bonded Unit Count",
+                "Description": "A covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or a single atom without covalent bonds).  The \"covalently-bonded unit count\" property is the number of such units in this compound compound.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem"
+                    ],
+                    "Value": {
+                      "Number": [
+                        2
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Compound Is Canonicalized",
+                "Description": "Whether the compound has successfully passed PubChem's valence bond canonicalization procedure. Some large, complex, or highly symmetric structures may fail this process.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Reference": [
+                      "Computed by PubChem (release 2021.05.07)"
+                    ],
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Yes"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Related Records",
+        "Description": "Records related to this compound.  This includes PubChem compound and substance records, as well as records in NCBI resources (e.g., PubMed, Gene, Protein Structure, and Taxonomy) and other databases external to NCBI.",
+        "Section": [
+          {
+            "TOCHeading": "Related Compounds with Annotation",
+            "Description": "Compound records that are closely related to this record AND that have biomedical annotations.  In essence, they are a subset of the compounds included in the \"Related Compounds\" section below this section.  The \"Related Compounds\" include the parent, components, mixtures, and salt forms of this compound record as well as the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "Boolean": [
+                    true
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Parent Compound",
+            "Description": "A parent compound is conceptually the \"important\" part of the molecule when the molecule has more than one covalent component. Specifically, a parent component must have at least one carbon and contain at least 70% of the heavy (non-hydrogen) atoms of all the unique covalent units (ignoring stoichiometry). Note that this is a very empirical definition and is subject to change.",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 11707110 (Trametinib)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 25,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=11707110",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 25,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11707110"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Component Compounds",
+            "Description": "Component parts of the compound when it consists of multiple covalently-bonded units.  In PubChem, a covalently-bonded unit is a group of atoms connected by covalent bonds, ignoring other bond types (or single atom without covalent bonds).",
+            "DisplayControls": {
+              "MoveToTop": true
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "CID 11707110 (Trametinib)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 25,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=11707110",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 25,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/11707110"
+                        }
+                      ]
+                    },
+                    {
+                      "String": "CID 679 (Dimethyl sulfoxide)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 28,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/image/imgsrv.fcgi?t=s&cid=679",
+                          "Type": "Icon"
+                        },
+                        {
+                          "Start": 0,
+                          "Length": 28,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/679"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Related Compounds",
+            "Description": "Compound records closely related to this record.  It includes compounds which are the parent, components, mixtures, and salt forms of this compound record.  It also includes the \"similar compounds\" and \"similar conformers\", which are structurally similar to this record in terms of 2-D and 3-D chemical structure similarity measures, respectively, as explained in Kim et al., J. Cheminform. 2016, 8, 62.",
+            "URL": "https://doi.org/10.1186/s13321-016-0163-1",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Parent, Connectivity Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_parent_connectivity_pulldown&from_uid=50992434",
+                "Value": {
+                  "Number": [
+                    22
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Same Parent, Exact Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_parent_pulldown&from_uid=50992434",
+                "Value": {
+                  "Number": [
+                    18
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Mixtures, Components, and Neutralized Forms Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound_mixture&from_uid=50992434",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Name": "Similar Compounds Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/pccompound?cmd=Link&LinkName=pccompound_pccompound&from_uid=50992434",
+                "Value": {
+                  "Number": [
+                    210
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Substances",
+            "Description": "Substance records associated with this compound.  In PubChem, the term \"substance\" refers to depositor-provided data for a chemical..",
+            "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/substances",
+            "Section": [
+              {
+                "TOCHeading": "Related Substances",
+                "Description": "Substance records related to this compound (e.g., the standardized chemical structures of these substances are the same as this compound or correspond to a mixture containing this compound as a component).",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Name": "Same Count",
+                    "URL": "https://www.ncbi.nlm.nih.gov/pcsubstance/?term=50992434[StandardizedCID]",
+                    "Value": {
+                      "Number": [
+                        65
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Substances by Category",
+                "Description": "Substances associated with this compound, grouped by the category of the data sources who submitted the substances to PubChem (e.g., government organizations, chemical vendors, research and development, curation efforts, NIH initiatives, etc.).",
+                "Information": [
+                  {
+                    "ReferenceNumber": 26,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Chemical Vendors"
+                        },
+                        {
+                          "String": "Curation Efforts"
+                        },
+                        {
+                          "String": "Governmental Organizations"
+                        },
+                        {
+                          "String": "Journal Publishers"
+                        },
+                        {
+                          "String": "Legacy Depositors"
+                        },
+                        {
+                          "String": "Research and Development"
+                        },
+                        {
+                          "String": "Subscription Services"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Entrez Crosslinks",
+            "Description": "Cross-references to associated records in other Entrez databases such as PubMed, Gene, Protein, etc.",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 1
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Gene Count",
+                "URL": "https://www.ncbi.nlm.nih.gov/sites/entrez?LinkName=pccompound_gene&db=pccompound&cmd=Link&from_uid=50992434",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Chemical Vendors",
+        "Description": "A list of chemical vendors that sell this compound. Note that the order of chemical vendors on the list is randomized, and that PubChem do not endorse any of the vendors. Each vendor may have multiple products containing the same chemical, but different in various aspects, such as amount and purity.  For each product, the external identifier used to locate the product on the vendor's website is provided under the Purchasable Chemical column, and clicking this identifier directs you to the vendor's website.  The information on the product provided by the vendor to PubChem can be accessed at the Summary page of the corresponding PubChem Substance ID (SID).  ",
+        "Information": [
+          {
+            "ReferenceNumber": 26,
+            "Value": {
+              "Boolean": [
+                true
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Drug and Medication Information",
+        "Description": "This section provides drug and medication information for this compound, including drug indications, labeling, clinical trials, idiosyncrasies, tolerance, reported fatal doses, etc.",
+        "Section": [
+          {
+            "TOCHeading": "FDA Orange Book",
+            "Description": "The Orange Book identifies drug products approved on the basis of safety and effectiveness by the U.S. Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act and and related patent and exclusivity information.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+            "Information": [
+              {
+                "ReferenceNumber": 17,
+                "Value": {
+                  "ExternalTableName": "fdaorangebook",
+                  "ExternalTableNumRows": 1
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA National Drug Code Directory",
+            "Description": "The National Drug Code (NDC) is a unique product identifier in three-segment number used in the United States for human drugs (the Drug Listing Act of 1972).",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+            "Information": [
+              {
+                "ReferenceNumber": 21,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "TRAMETINIB DIMETHYL SULFOXIDE is an active ingredient in the product MEKINIST.",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        },
+                        {
+                          "Start": 69,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Drug Labels for Ingredients",
+            "Description": "This section provides the drug labeling information for the products containing this compound as an ingredient.  This information is from The National Library of Medicine (NLM)'s DailyMed, which provides the most recent labeling submitted to the Food and Drug Administration (FDA) by companies and currently in use (i.e., \"in use\" labeling). DailyMed contains labeling for prescription and nonprescription drugs for human and animal use, and for additional products such as medical gases, devices, cosmetics, dietary supplements, and medical foods.",
+            "URL": "https://dailymed.nlm.nih.gov/dailymed/",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "Subsections",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 2
+            },
+            "Section": [
+              {
+                "TOCHeading": "Label Title",
+                "Description": "Title given on the label of the drug product.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Label Information",
+                    "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=TRAMETINIB+DIMETHYL+SULFOXIDE",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Total 2 labels"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Label Ingredient",
+                "Description": "Active ingredient(s) of the drug product.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Drug Ingredient",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "TRAMETINIB DIMETHYL SULFOXIDE",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 29,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                              "Type": "PubChem Internal Link",
+                              "Extra": "CID-50992434"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "NDC Code(s)",
+                "Description": "U.S. Food & Drug Administration (FDA)'s National Drug Code (NDC) for the drug product.",
+                "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "NDC Code(s)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "0078-0666-15, 0078-0668-15, 0078-1105-15, 0078-1112-15, 0078-1112-94, 73309-211-01, 73309-211-02, 73309-211-03"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Packager",
+                "Description": "The company which packages or re-packages a drug product into a single- or multi-unit container.  The packager of a drug product is not necessarily the same as its manufacturer.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 5,
+                    "Name": "Packagers",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "BLUEBAY SHANDONG CO.,LTD; Novartis Pharmaceuticals Corporation"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Clinical Trials",
+            "Description": "Clinical trials are research studies performed in people to evaluate a medical, surgical, or behavioral intervention. They are the primary way that researchers find out if a new treatment (e.g., a drug or diet) or medical device (e.g., a pacemaker) is safe and effective in people.  This section provides information on clinical trials for this chemical.",
+            "Section": [
+              {
+                "TOCHeading": "ClinicalTrials.gov",
+                "Description": "Brief clinical trials summary from ClinicalTrials.gov at the U.S. National Library of Medicine.",
+                "URL": "http://clinicaltrials.gov/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 4,
+                    "Name": "ClinicalTrials.gov",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials",
+                      "ExternalTableNumRows": 15
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "EU Clinical Trials Register",
+                "Description": "Brief clinical trials summary from the EU Clinical Trials Register.",
+                "URL": "https://www.clinicaltrialsregister.eu/",
+                "Information": [
+                  {
+                    "ReferenceNumber": 8,
+                    "Name": "EU Clinical Trials Register",
+                    "Value": {
+                      "ExternalTableName": "clinicaltrials_eu",
+                      "ExternalTableNumRows": 13
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Use and Manufacturing",
+        "Description": "This section provides information on the use and manufacturing information for this chemical, such as uses, consumption patterns, manufacturing methods, and U.S. imports/exports/production.",
+        "Section": [
+          {
+            "TOCHeading": "Uses",
+            "Description": "Major uses of this chemical, including both consumer uses and industrial uses.",
+            "Section": [
+              {
+                "TOCHeading": "Use Classification",
+                "Description": "This section contains use classification/category information for this compound from various sources.",
+                "Information": [
+                  {
+                    "ReferenceNumber": 17,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Human Drugs -> FDA Approved Drug Products with Therapeutic Equivalence Evaluations (Orange Book) -> Active Ingredients"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Safety and Hazards",
+        "Description": "Information on safety and hazards for this compound, including safety/hazards properties, reactivity, incompatibilities, management techniques, first aid treatments, and more.  For toxicity and related information, please see the Toxicity section.",
+        "Section": [
+          {
+            "TOCHeading": "Hazards Identification",
+            "Description": "This section identifies the hazards of the chemical presented on the safety data sheet (SDS) and the appropriate warning information associated with those hazards.  The information in this section includes, but are not limited to, the hazard classification of the chemical, signal word, pictograms, hazard statements and precautionary statements.",
+            "URL": "https://www.osha.gov/sites/default/files/publications/OSHA3514.pdf",
+            "Section": [
+              {
+                "TOCHeading": "GHS Classification",
+                "Description": "GHS (Globally Harmonized System of Classification and Labelling of Chemicals) is a United Nations system to identify hazardous chemicals and to inform users about these hazards. GHS has been adopted by many countries around the world and is now also used as the basis for international and national transport regulations for dangerous goods. The GHS hazard statements, class categories, pictograms, signal words, and the precautionary statements can be found on the PubChem GHS page.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                "DisplayControls": {
+                  "CreateTable": {
+                    "FromInformationIn": "ThisSection",
+                    "NumberOfColumns": 2,
+                    "ColumnContents": [
+                      "Name",
+                      "Value"
+                    ]
+                  },
+                  "ShowAtMost": 1
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Pictogram(s)",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "          ",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS07.svg",
+                              "Type": "Icon",
+                              "Extra": "Irritant"
+                            },
+                            {
+                              "Start": 1,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS08.svg",
+                              "Type": "Icon",
+                              "Extra": "Health Hazard"
+                            },
+                            {
+                              "Start": 2,
+                              "Length": 1,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/images/ghs/GHS09.svg",
+                              "Type": "Icon",
+                              "Extra": "Environmental Hazard"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Signal",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Danger",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 6,
+                              "Type": "Color",
+                              "Extra": "GHSDanger"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "GHS Hazard Statements",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "H317 (100%): May cause an allergic skin reaction [Warning Sensitization, Skin]",
+                          "Markup": [
+                            {
+                              "Start": 50,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H361 (100%): Suspected of damaging fertility or the unborn child [Warning Reproductive toxicity]",
+                          "Markup": [
+                            {
+                              "Start": 66,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H372 (100%): Causes damage to organs through prolonged or repeated exposure [Danger Specific target organ toxicity, repeated exposure]",
+                          "Markup": [
+                            {
+                              "Start": 77,
+                              "Length": 6,
+                              "Type": "Color",
+                              "Extra": "GHSDanger"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H400 (50%): Very toxic to aquatic life [Warning Hazardous to the aquatic environment, acute hazard]",
+                          "Markup": [
+                            {
+                              "Start": 40,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "H410 (100%): Very toxic to aquatic life with long lasting effects [Warning Hazardous to the aquatic environment, long-term hazard]",
+                          "Markup": [
+                            {
+                              "Start": 67,
+                              "Length": 7,
+                              "Type": "Color",
+                              "Extra": "GHSWarning"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "Precautionary Statement Codes",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "P203, P260, P261, P264, P270, P272, P273, P280, P302+P352, P318, P319, P321, P333+P313, P362+P364, P391, P405, and P501"
+                        },
+                        {
+                          "String": "(The corresponding statement to each P-code can be found at the GHS Classification page.)",
+                          "Markup": [
+                            {
+                              "Start": 64,
+                              "Length": 18,
+                              "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/#_prec"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "ReferenceNumber": 9,
+                    "Name": "ECHA C&L Notifications Summary",
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Aggregated GHS information provided by 2 companies from 2 notifications to the ECHA C&L Inventory. Each notification may be associated with multiple companies.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 163,
+                              "Type": "Italics"
+                            }
+                          ]
+                        },
+                        {
+                          "String": "Information may vary between notifications depending on impurities, additives, and other factors. The percentage value in parenthesis indicates the notified classification ratio from companies that provide hazard codes. Only hazard codes with percentage values above 10% are shown.",
+                          "Markup": [
+                            {
+                              "Start": 0,
+                              "Length": 281,
+                              "Type": "Italics"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  }
+                ]
+              },
+              {
+                "TOCHeading": "Hazard Classes and Categories",
+                "Description": "The Hazard Classes and Categories are aligned with GHS (Globally Harmonized System of Classification and Labelling of Chemicals) hazard statement codes.  The percentage data in the parenthesis from ECHA indicates that the hazard classes and categories information are consolidated from multiple companies.  Also, see the detailed explanation from the above GHS classification section.",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/ghs/",
+                "DisplayControls": {
+                  "ShowAtMost": 2
+                },
+                "Information": [
+                  {
+                    "ReferenceNumber": 9,
+                    "Value": {
+                      "StringWithMarkup": [
+                        {
+                          "String": "Skin Sens. 1 (100%)"
+                        },
+                        {
+                          "String": "Repr. 2 (100%)"
+                        },
+                        {
+                          "String": "STOT RE 1 (100%)"
+                        },
+                        {
+                          "String": "Aquatic Acute 1 (50%)"
+                        },
+                        {
+                          "String": "Aquatic Chronic 1 (100%)"
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Literature",
+        "Description": "Scientific articles associated with this compound.  Some chemical-literature associations in this section are provided by data contributors or derived from MeSH annotations, as explained in Kim et al., J. Cheminform. 2016, 8, 32.  This section also provides the lists of chemicals, genes/proteins, and diseases, that are co-mentioned in scientific articles, as described in Zaslavsky et al., Front. Res. Metr. Anal., 2021, 6, 689059.",
+        "URL": "https://pubchemdocs.ncbi.nlm.nih.gov/literature",
+        "Section": [
+          {
+            "TOCHeading": "Springer Nature References",
+            "Description": "Literature references related to scientific contents from Springer Nature journals and books. These references have been ranked automatically by an algorithm which calculates the relevance for each substance in a Springer Nature document. It is based on: (1) the TF-IDF, adapted to chemical structures, (2) location information in the text (e.g. title, abstract, keywords), and (3) the document size.  Springer Nature aims to provide only highly qualitative and relevant content but references of lower relevance aren't withheld as they might contain also very useful information.",
+            "Information": [
+              {
+                "ReferenceNumber": 24,
+                "Name": "Springer Nature References",
+                "Value": {
+                  "ExternalTableName": "springernature"
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical Co-Occurrences in Literature",
+            "Description": "Chemical co-occurrences in literature highlight chemicals mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalNeighbor"
+                    },
+                    {
+                      "String": "Chemical"
+                    },
+                    {
+                      "String": "ChemicalName_1"
+                    },
+                    {
+                      "String": "ChemicalName_2"
+                    },
+                    {
+                      "String": "SUMMARY_URL.cid"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "CID"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Gene Co-Occurrences in Literature",
+            "Description": "Chemical-gene co-occurrences in the literature highlight chemical-gene pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two.  Note that a co-occurring gene entity is organism non-specific and could refer to a gene, protein, or enzyme.  Also note that this content is not human curated.  It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalGeneSymbolNeighbor"
+                    },
+                    {
+                      "String": "Gene/Protein/Enzyme"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "GeneSymbolName"
+                    },
+                    {
+                      "String": "SUMMARY_URL.genesymbol"
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "GeneSymbol"
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "Chemical-Disease Co-Occurrences in Literature",
+            "Description": "Chemical-disease co-occurrences in literature highlight chemical-disease pairs mentioned together in scientific articles. This may suggest that an important relationship exists between the two. Please note that this content is not human curated. It is generated by text-mining algorithms that can be fooled such that a co-occurrence may be happenstance or a casual mention. The lists are ordered by relevancy as indicated by count of publications and other statistics, with the most relevant mentions appearing at the top.",
+            "URL": "https://doi.org/10.3389/frma.2021.689059",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Name": "Co-Occurrence Panel",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "ChemicalDiseaseNeighbor"
+                    },
+                    {
+                      "String": "Disease"
+                    },
+                    {
+                      "String": "ChemicalName"
+                    },
+                    {
+                      "String": "DiseaseName"
+                    },
+                    {
+                      "String": "https://meshb.nlm.nih.gov/record/ui?ui="
+                    },
+                    {
+                      "String": "CID"
+                    },
+                    {
+                      "String": "MeSH"
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Patents",
+        "Description": "Patent applications/documents that mention this compound.",
+        "DisplayControls": {
+          "ListType": "Columns"
+        },
+        "Section": [
+          {
+            "TOCHeading": "Depositor-Supplied Patent Identifiers",
+            "Description": "Patent identifiers provided by data depositors, along with information on those patents.",
+            "Information": [
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "ExternalTableName": "patent"
+                }
+              },
+              {
+                "ReferenceNumber": 26,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Link to all deposited patent identifiers",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 40,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/50992434/xrefs/PatentID/TXT"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "WIPO PATENTSCOPE",
+            "Description": "Use the provided link to show patents associated with this chemical structure in WIPO's PATENTSCOPE system.",
+            "URL": "https://www.wipo.int/patentscope/en/",
+            "Information": [
+              {
+                "ReferenceNumber": 40,
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Patents are available for this chemical structure:"
+                    },
+                    {
+                      "String": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=OQUFJVRYDFIQBW-UHFFFAOYSA-N",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 86,
+                          "URL": "https://patentscope.wipo.int/search/en/result.jsf?inchikey=OQUFJVRYDFIQBW-UHFFFAOYSA-N"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "FDA Orange Book Patents",
+            "Description": "Patents listed for this chemical in the Orange Book published by U.S. Food and Drug Administration (FDA).  The Orange Book identifies FDA-approved drug products and related patent and exclusivity information.",
+            "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+            "DisplayControls": {
+              "CreateTable": {
+                "FromInformationIn": "ThisSection",
+                "NumberOfColumns": 2,
+                "ColumnContents": [
+                  "Name",
+                  "Value"
+                ]
+              },
+              "ShowAtMost": 3
+            },
+            "Information": [
+              {
+                "ReferenceNumber": 11,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=7378423.PN.&OS=PN/7378423&RS=PN/7378423",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "7378423"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "May 29, 2027"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 11,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8580304.PN.&OS=PN/8580304&RS=PN/8580304",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "8580304"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Jan 28, 2032"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 12,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8703781.PN.&OS=PN/8703781&RS=PN/8703781",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "8703781"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Oct 15, 2030"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 13,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=8835443.PN.&OS=PN/8835443&RS=PN/8835443",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "8835443"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Jun 10, 2025"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 14,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9155706.PN.&OS=PN/9155706&RS=PN/9155706",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "9155706"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Jan 28, 2032"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 15,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9271941.PN.&OS=PN/9271941&RS=PN/9271941",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "9271941"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Jan 28, 2032"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 16,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=9399021.PN.&OS=PN/9399021&RS=PN/9399021",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "9399021"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Jan 28, 2032"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 18,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Patent",
+                "URL": "http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&p=1&u=%2Fnetahtml%2FPTO%2Fsearch-bool.html&r=1&f=G&l=50&co1=AND&d=PTXT&s1=10869869.PN.&OS=PN/10869869&RS=PN/10869869",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "10869869"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Expiration",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "Aug 30, 2033"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Applicant",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "NOVARTIS"
+                    }
+                  ]
+                }
+              },
+              {
+                "ReferenceNumber": 19,
+                "Name": "Drug Application",
+                "Value": {
+                  "StringWithMarkup": [
+                    {
+                      "String": "N204114 (Prescription Drug: MEKINIST. Ingredients: TRAMETINIB DIMETHYL SULFOXIDE)",
+                      "Markup": [
+                        {
+                          "Start": 0,
+                          "Length": 7,
+                          "URL": "https://www.accessdata.fda.gov/scripts/cder/ob/results_product.cfm?Appl_Type=N&Appl_No=204114"
+                        },
+                        {
+                          "Start": 28,
+                          "Length": 8,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/MEKINIST",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-11707110"
+                        },
+                        {
+                          "Start": 51,
+                          "Length": 29,
+                          "URL": "https://pubchem.ncbi.nlm.nih.gov/compound/TRAMETINIB%20DIMETHYL%20SULFOXIDE",
+                          "Type": "PubChem Internal Link",
+                          "Extra": "CID-50992434"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Biomolecular Interactions and Pathways",
+        "Description": "This section provides information on the biomolecular interactions of this compound with drugs, genes, proteins, etc., as well as the pathways in which this compound is involved.",
+        "Section": [
+          {
+            "TOCHeading": "Drug-Gene Interactions",
+            "Description": "Drug-gene interactions provided by the Drug Gene Interaction Database (DGIdb).",
+            "URL": "https://www.dgidb.org/",
+            "Information": [
+              {
+                "ReferenceNumber": 6,
+                "Value": {
+                  "ExternalTableName": "collection=dgidb&view=concise_cid"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "TOCHeading": "Classification",
+        "Description": "A set of concepts and categories in a subject area or domain that shows their properties and the relations between them.",
+        "Section": [
+          {
+            "TOCHeading": "NCI Thesaurus Tree",
+            "Description": "NCI Thesaurus (NCIt) hierarchy",
+            "URL": "https://ncithesaurus.nci.nih.gov",
+            "Information": [
+              {
+                "ReferenceNumber": 38,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=112",
+                "Value": {
+                  "Number": [
+                    112
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChEBI Ontology",
+            "Description": "ChEBI Ontology tree.  ChEBI is an acronym for Chemical Entities of Biological Interest, which is a freely available dictionary of molecular entities focused on 'small' chemical compounds. ChEBI incorporates an ontological classification, whereby the relationships between molecular entities or classes of entities and their parents and/or children are specified.",
+            "URL": "https://www.ebi.ac.uk/chebi/",
+            "Information": [
+              {
+                "ReferenceNumber": 27,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=2",
+                "Value": {
+                  "Number": [
+                    2
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Drug",
+            "Description": "Classification/ontology tree for therapeutic categories of drugs in Japan, from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08301",
+            "Information": [
+              {
+                "ReferenceNumber": 28,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=14",
+                "Value": {
+                  "Number": [
+                    14
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: USP",
+            "Description": "US Pharmacopeia (USP) drug classification tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08302",
+            "Information": [
+              {
+                "ReferenceNumber": 29,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=15",
+                "Value": {
+                  "Number": [
+                    15
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: ATC",
+            "Description": "Anatomical Therapeutic Chemical (ATC) classification tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08303",
+            "Information": [
+              {
+                "ReferenceNumber": 30,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=16",
+                "Value": {
+                  "Number": [
+                    16
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Target-based Classification of Drugs",
+            "Description": "Target-based classification tree of drugs, from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08310",
+            "Information": [
+              {
+                "ReferenceNumber": 31,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=22",
+                "Value": {
+                  "Number": [
+                    22
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Drug Groups",
+            "Description": "KEGG : Drug Groups tree",
+            "Information": [
+              {
+                "ReferenceNumber": 35,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=96",
+                "Value": {
+                  "Number": [
+                    96
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "KEGG: Drug Classes",
+            "Description": "Drug classes tree from the Kyoto Encyclopedia of Genes and Genomes (KEGG).",
+            "URL": "https://www.genome.jp/kegg-bin/get_htext?htext=br08332",
+            "Information": [
+              {
+                "ReferenceNumber": 39,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=118",
+                "Value": {
+                  "Number": [
+                    118
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "ChemIDplus",
+            "Description": "Classification of this compound, provided by ChemIDplus, which is a free web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases.  ChemIDplus groups chemicals based on the source locators (i.e., what information resources have data for a given chemical).",
+            "URL": "https://chem.nlm.nih.gov/chemidplus/",
+            "Information": [
+              {
+                "ReferenceNumber": 34,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=84",
+                "Value": {
+                  "Number": [
+                    84
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "UN GHS Classification",
+            "Description": "The United Nations' Globally Harmonized System of Classification and Labelling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures.",
+            "URL": "https://unece.org/about-ghs",
+            "Information": [
+              {
+                "ReferenceNumber": 33,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=83",
+                "Value": {
+                  "Number": [
+                    83
+                  ]
+                }
+              }
+            ]
+          },
+          {
+            "TOCHeading": "EPA DSSTox Classification",
+            "Description": "Classification from the U.S. Environmental Protection Agency's Distributed Structure-Searchable Toxicity (DSSTox) database. DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology. A distinguishing feature of this effort is the accurate mapping of bioassay and physicochemical property data associated with chemical substances to their corresponding chemical structures. ",
+            "URL": "https://www.epa.gov/chemical-research/distributed-structure-searchable-toxicity-dsstox-database",
+            "Information": [
+              {
+                "ReferenceNumber": 36,
+                "Name": "HID",
+                "URL": "https://pubchem.ncbi.nlm.nih.gov/classification/#hid=105",
+                "Value": {
+                  "Number": [
+                    105
+                  ]
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "Reference": [
+      {
+        "ReferenceNumber": 1,
+        "SourceName": "CAS Common Chemistry",
+        "SourceID": "1187431-43-1",
+        "Name": "Acetamide, N-[3-[3-cyclopropyl-5-[(2-fluoro-4-iodophenyl)amino]-3,4,6,7-tetrahydro-6,8-dimethyl-2,4,7-trioxopyrido[4,3-d]pyrimidin-1(2H)-yl]phenyl]-, compd. with 1,1′-sulfinylbis[methane] (1:1)",
+        "Description": "CAS Common Chemistry is an open community resource for accessing chemical information. Nearly 500,000 chemical substances from CAS REGISTRY cover areas of community interest, including common and frequently regulated chemicals, and those relevant to high school and undergraduate chemistry classes. This chemical information, curated by our expert scientists, is provided in alignment with our mission as a division of the American Chemical Society.",
+        "URL": "https://commonchemistry.cas.org/detail?cas_rn=1187431-43-1",
+        "LicenseNote": "The data from CAS Common Chemistry is provided under a CC-BY-NC 4.0 license, unless otherwise stated.",
+        "LicenseURL": "https://creativecommons.org/licenses/by-nc/4.0/",
+        "ANID": 12914491
+      },
+      {
+        "ReferenceNumber": 3,
+        "SourceName": "ChemIDplus",
+        "SourceID": "1187431431",
+        "Name": "Trametinib dimethyl sulfoxide [USAN]",
+        "Description": "ChemIDplus is a free, web search system that provides access to the structure and nomenclature authority files used for the identification of chemical substances cited in National Library of Medicine (NLM) databases, including the TOXNET system.",
+        "URL": "https://chem.nlm.nih.gov/chemidplus/sid/1187431431",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true,
+        "ANID": 1144502
+      },
+      {
+        "ReferenceNumber": 7,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "DTXSID30152223",
+        "Name": "Trametinib dimethyl sulfoxide",
+        "Description": "DSSTox provides a high quality public chemistry resource for supporting improved predictive toxicology.",
+        "URL": "https://comptox.epa.gov/dashboard/DTXSID30152223",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources",
+        "ANID": 1208426
+      },
+      {
+        "ReferenceNumber": 10,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "629-898-8",
+        "Name": "N-[3-[3-cyclopropyl-5-(2-fluoro-4-iodophenyl)amino)-6.8-dimethyl-2,4,7-trioxo-3,4,6,7 -tetrahydropyrido[4,3-D]pyrimidin-1(2H)-YL]phenyl] acetamide, compound with dimethylsulfoxide (1:1)",
+        "Description": "The European Chemicals Agency (ECHA) is an agency of the European Union which is the driving force among regulatory authorities in implementing the EU's groundbreaking chemicals legislation for the benefit of human health and the environment as well as for innovation and competitiveness.",
+        "URL": "https://echa.europa.eu/information-on-chemicals",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 15113153
+      },
+      {
+        "ReferenceNumber": 2,
+        "SourceName": "ChEBI",
+        "SourceID": "CHEBI:OBO:50992434",
+        "Name": "Trametinib dimethyl sulfoxide",
+        "Description": "Chemical Entities of Biological Interest (ChEBI) is a database and ontology of molecular entities focused on 'small' chemical compounds, that is part of the Open Biomedical Ontologies effort. The term \"molecular entity\" refers to any constitutionally or isotopically distinct atom, molecule, ion, ion pair, radical, radical ion, complex, conformer, etc., identifiable as a separately distinguishable entity.",
+        "URL": "http://www.ebi.ac.uk/chebi/searchId.do?chebiId=CHEBI:75991",
+        "ANID": 2455295
+      },
+      {
+        "ReferenceNumber": 22,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "C152711::Compound",
+        "Description": "NCI Thesaurus (NCIt), from the U.S. National Cancer Institute, provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncithesaurus.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI_Thesaurus&ns=ncit&code=C152711",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse",
+        "ANID": 14393793
+      },
+      {
+        "ReferenceNumber": 4,
+        "SourceName": "ClinicalTrials.gov",
+        "SourceID": "cid50992434",
+        "Description": "ClinicalTrials.gov is an NIH registry and results database of publicly and privately supported clinical studies of human participants conducted around the world.",
+        "URL": "https://clinicaltrials.gov/",
+        "LicenseNote": "The ClinicalTrials.gov data carry an international copyright outside the United States and its Territories or Possessions. Some ClinicalTrials.gov data may be subject to the copyright of third parties; you should consult these entities for any additional terms of use.",
+        "LicenseURL": "https://clinicaltrials.gov/ct2/about-site/terms-conditions#Use",
+        "ANID": 5192333
+      },
+      {
+        "ReferenceNumber": 5,
+        "SourceName": "DailyMed",
+        "SourceID": "TRAMETINIB DIMETHYL SULFOXIDE",
+        "Name": "TRAMETINIB DIMETHYL SULFOXIDE",
+        "Description": "DailyMed provides trustworthy information about marketed drugs in the United States. DailyMed is the official provider of FDA label information (package inserts).",
+        "URL": "https://dailymed.nlm.nih.gov/dailymed/search.cfm?labeltype=all&query=TRAMETINIB+DIMETHYL+SULFOXIDE",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "ANID": 2127845
+      },
+      {
+        "ReferenceNumber": 6,
+        "SourceName": "Drug Gene Interaction database (DGIdb)",
+        "SourceID": "TRAMETINIB DIMETHYL SULFOXIDE",
+        "Description": "The Drug Gene Interaction Database (DGIdb, www.dgidb.org) is a web resource that consolidates disparate data sources describing drug - gene interactions and gene druggability.",
+        "URL": "https://www.dgidb.org/drugs/TRAMETINIB DIMETHYL SULFOXIDE",
+        "LicenseNote": "The data used in DGIdb is all open access and where possible made available as raw data dumps in the downloads section.",
+        "LicenseURL": "http://www.dgidb.org/downloads",
+        "ANID": 8267845
+      },
+      {
+        "ReferenceNumber": 8,
+        "SourceName": "EU Clinical Trials Register",
+        "SourceID": "cid50992434",
+        "Description": "The EU Clinical Trials Register contains information on interventional clinical trials on medicines conducted in the European Union (EU), or the European Economic Area (EEA) which started after 1 May 2004.",
+        "URL": "https://www.clinicaltrialsregister.eu/",
+        "ANID": 6484496
+      },
+      {
+        "ReferenceNumber": 9,
+        "SourceName": "European Chemicals Agency (ECHA)",
+        "SourceID": "162902",
+        "Name": "N-[3-[3-cyclopropyl-5-(2-fluoro-4-iodophenyl)amino)-6.8-dimethyl-2,4,7-trioxo-3,4,6,7 -tetrahydropyrido[4,3-D]pyrimidin-1(2H)-YL]phenyl] acetamide, compound with dimethylsulfoxide (1:1)",
+        "Description": "The information provided here is aggregated from the \"Notified classification and labelling\" from ECHA's C&L Inventory. Read more: https://echa.europa.eu/information-on-chemicals/cl-inventory-database",
+        "URL": "https://echa.europa.eu/information-on-chemicals/cl-inventory-database/-/discli/details/162902",
+        "LicenseNote": "Use of the information, documents and data from the ECHA website is subject to the terms and conditions of this Legal Notice, and subject to other binding limitations provided for under applicable law, the information, documents and data made available on the ECHA website may be reproduced, distributed and/or used, totally or in part, for non-commercial purposes provided that ECHA is acknowledged as the source: \"Source: European Chemicals Agency, http://echa.europa.eu/\". Such acknowledgement must be included in each copy of the material. ECHA permits and encourages organisations and individuals to create links to the ECHA website under the following cumulative conditions: Links can only be made to webpages that provide a link to the Legal Notice page.",
+        "LicenseURL": "https://echa.europa.eu/web/guest/legal-notice",
+        "ANID": 1900021
+      },
+      {
+        "ReferenceNumber": 11,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_7378423",
+        "Name": "Patent:7378423",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 404415
+      },
+      {
+        "ReferenceNumber": 12,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_8580304",
+        "Name": "Patent:8580304",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 405734
+      },
+      {
+        "ReferenceNumber": 13,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_8703781",
+        "Name": "Patent:8703781",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 405920
+      },
+      {
+        "ReferenceNumber": 14,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_8835443",
+        "Name": "Patent:8835443",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 406097
+      },
+      {
+        "ReferenceNumber": 15,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_9155706",
+        "Name": "Patent:9155706",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 406485
+      },
+      {
+        "ReferenceNumber": 16,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_9271941",
+        "Name": "Patent:9271941",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 406622
+      },
+      {
+        "ReferenceNumber": 18,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_9399021",
+        "Name": "Patent:9399021",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 8512801
+      },
+      {
+        "ReferenceNumber": 19,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "orgp_10869869",
+        "Name": "Patent:10869869",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 13726946
+      },
+      {
+        "ReferenceNumber": 17,
+        "SourceName": "FDA Orange Book",
+        "SourceID": "org_50992434",
+        "Description": "The publication, Approved Drug Products with Therapeutic Equivalence Evaluations (the List, commonly known as the Orange Book), identifies drug products approved on the basis of safety and effectiveness by the Food and Drug Administration (FDA) under the Federal Food, Drug, and Cosmetic Act (the Act).",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/approved-drug-products-therapeutic-equivalence-evaluations-orange-book",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 3596787
+      },
+      {
+        "ReferenceNumber": 20,
+        "SourceName": "FDA/SPL Indexing Data",
+        "SourceID": "BSB9VJ5TUT",
+        "Name": "BSB9VJ5TUT",
+        "Description": "The UNique Ingredient Identifier (UNII) is an alphanumeric substance identifier from the joint FDA/USP Substance Registration System (SRS).",
+        "URL": "https://www.fda.gov/ForIndustry/DataStandards/SubstanceRegistrationSystem-UniqueIngredientIdentifierUNII/",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 5869147
+      },
+      {
+        "ReferenceNumber": 21,
+        "SourceName": "National Drug Code (NDC) Directory",
+        "SourceID": "s_TRAMETINIB DIMETHYL SULFOXIDE",
+        "Name": "TRAMETINIB DIMETHYL SULFOXIDE",
+        "Description": "The National Drug Code (NDC) is a unique, three-segment number that serves as FDA's identifier for drugs. The NDC Directory contains information on active and certified finished and unfinished drugs submitted to FDA.",
+        "URL": "https://www.fda.gov/drugs/drug-approvals-and-databases/national-drug-code-directory",
+        "LicenseNote": "Unless otherwise noted, the contents of the FDA website (www.fda.gov), both text and graphics, are not copyrighted. They are in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from FDA. Credit to the U.S. Food and Drug Administration as the source is appreciated but not required.",
+        "LicenseURL": "https://www.fda.gov/about-fda/about-website/website-policies#linking",
+        "ANID": 15094545
+      },
+      {
+        "ReferenceNumber": 23,
+        "SourceName": "NLM RxNorm Terminology",
+        "SourceID": "1425098",
+        "Description": "RxNorm provides normalized names for clinical drugs and links its names to many of the drug vocabularies commonly used in pharmacy management and drug interaction software.",
+        "URL": "https://rxnav.nlm.nih.gov/id/rxnorm/1425098",
+        "LicenseNote": "The RxNorm Terminology is created by the National Library of Medicine (NLM) and is in the public domain and may be republished, reprinted and otherwise used freely by anyone without the need to obtain permission from NLM. Credit to the U.S. National Library of Medicine as the source is appreciated but not required. The full RxNorm dataset requires a free license.",
+        "LicenseURL": "https://www.nlm.nih.gov/research/umls/rxnorm/docs/termsofservice.html",
+        "ANID": 15098568
+      },
+      {
+        "ReferenceNumber": 24,
+        "SourceName": "Springer Nature",
+        "SourceID": "41062200-258107427",
+        "Description": "Literature references related to scientific contents from Springer Nature journals and books. Read more: https://link.springer.com/",
+        "ANID": 3849991
+      },
+      {
+        "ReferenceNumber": 25,
+        "SourceName": "Wikidata",
+        "SourceID": "Q27145671",
+        "Name": "trametinib dimethyl sulfoxide",
+        "Description": "Link to the compound information in Wikidata.",
+        "URL": "https://www.wikidata.org/wiki/Q27145671",
+        "LicenseNote": "CCZero",
+        "LicenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "ANID": 16354399
+      },
+      {
+        "ReferenceNumber": 26,
+        "SourceName": "PubChem",
+        "SourceID": "PubChem",
+        "Description": "Data deposited in or computed by PubChem",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov"
+      },
+      {
+        "ReferenceNumber": 27,
+        "SourceName": "ChEBI",
+        "SourceID": "OBO",
+        "Name": "ChEBI Ontology",
+        "Description": "The ChEBI Ontology is a structured classification of the entities contained within ChEBI.",
+        "URL": "http://www.ebi.ac.uk/chebi/userManualForward.do#ChEBI%20Ontology"
+      },
+      {
+        "ReferenceNumber": 28,
+        "SourceName": "KEGG",
+        "SourceID": "br08301",
+        "Name": "Therapeutic category of drugs in Japan",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08301.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 29,
+        "SourceName": "KEGG",
+        "SourceID": "br08302",
+        "Name": "USP drug classification",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08302.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 30,
+        "SourceName": "KEGG",
+        "SourceID": "br08303",
+        "Name": "Anatomical Therapeutic Chemical (ATC) classification",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08303.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 31,
+        "SourceName": "KEGG",
+        "SourceID": "br08310",
+        "Name": "Target-based classification of drugs",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08310.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 33,
+        "SourceName": "UN Globally Harmonized System of Classification and Labelling of Chemicals (GHS)",
+        "SourceID": "UN_GHS_tree",
+        "Name": "GHS Classification Tree",
+        "Description": "The United Nations' Globally Harmonized System of Classification and Labeling of Chemicals (GHS) provides a harmonized basis for globally uniform physical, environmental, and health and safety information on hazardous chemical substances and mixtures. It sets up criteria for the classification of chemicals for physical-chemical, health, and environmental hazards of chemical substances and mixtures and sets up standardized hazard information to facilitate global trade of chemicals.  Please note that obsolete codes are added in this classification for completeness purposes, as they are still in use. Any obsolete codes are annotated as such.",
+        "URL": "http://www.unece.org/trans/danger/publi/ghs/ghs_welcome_e.html"
+      },
+      {
+        "ReferenceNumber": 34,
+        "SourceName": "ChemIDplus",
+        "SourceID": "ChemIDplus_tree",
+        "Name": "ChemIDplus Chemical Information Classification",
+        "Description": "ChemIDplus is a TOXNET (TOXicology Data NETwork) databases that contain chemicals and drugs related information. It is managed by the Toxicology and Environmental Health Information Program (TEHIP) in the Division of Specialized Information Services (SIS) of the National Library of Medicine (NLM).",
+        "URL": "https://chem.nlm.nih.gov/chemidplus/",
+        "LicenseURL": "https://www.nlm.nih.gov/copyright.html",
+        "IsToxnet": true
+      },
+      {
+        "ReferenceNumber": 35,
+        "SourceName": "KEGG",
+        "SourceID": "br08330",
+        "Name": "Drug Groups",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08330.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 36,
+        "SourceName": "EPA DSSTox",
+        "SourceID": "dsstoxlist_tree",
+        "Name": "CompTox Chemicals Dashboard Chemical Lists",
+        "Description": "This classification lists the chemical categories from the EPA CompTox Chemicals Dashboard.<br>Update: 08/10/22 11:22:34",
+        "URL": "https://comptox.epa.gov/dashboard/chemical-lists/",
+        "LicenseURL": "https://www.epa.gov/privacy/privacy-act-laws-policies-and-resources"
+      },
+      {
+        "ReferenceNumber": 38,
+        "SourceName": "NCI Thesaurus (NCIt)",
+        "SourceID": "NCIt",
+        "Name": "NCI Thesaurus Tree",
+        "Description": "The NCI Thesaurus (NCIt) provides reference terminology for many NCI and other systems. It covers vocabulary for clinical care, translational and basic research, and public information and administrative activities.",
+        "URL": "https://ncit.nci.nih.gov",
+        "LicenseNote": "Unless otherwise indicated, all text within NCI products is free of copyright and may be reused without our permission. Credit the National Cancer Institute as the source.",
+        "LicenseURL": "https://www.cancer.gov/policies/copyright-reuse"
+      },
+      {
+        "ReferenceNumber": 39,
+        "SourceName": "KEGG",
+        "SourceID": "br08332",
+        "Name": "Drug Classes",
+        "Description": "KEGG is an encyclopedia of genes and genomes. Assigning functional meanings to genes and genomes both at the molecular and higher levels is the primary objective of the KEGG database project.",
+        "URL": "http://www.genome.jp/kegg-bin/get_htext?br08332.keg",
+        "LicenseNote": "Academic users may freely use the KEGG website. Non-academic use of KEGG generally requires a commercial license",
+        "LicenseURL": "https://www.kegg.jp/kegg/legal.html"
+      },
+      {
+        "ReferenceNumber": 40,
+        "SourceName": "PATENTSCOPE (WIPO)",
+        "Name": "SID 392213742",
+        "Description": "The PATENTSCOPE database from WIPO includes patent and chemical structure search (with a free account) that gives access to millions of patent documents. The World Intellectual Property Organisation (WIPO) is a specialized United Nations (UN) agency headquartered in Geneva (Switzerland). Our mission is to lead the development of a balanced and effective international Intellectual Property (IP) system that enables innovation and creativity for the benefit of all. We help governments, businesses and society realize the benefits of Intellectual Property and are notably a world reference source for IP information.",
+        "URL": "https://pubchem.ncbi.nlm.nih.gov/substance/392213742"
+      }
+    ]
+  }
+}

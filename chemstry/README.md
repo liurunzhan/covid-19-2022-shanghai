@@ -8,3 +8,4 @@
 | Nagle Scale | Column x_alpha_1990 in chemical_elements.csv, cited from "Atomic polarizability and electronegativity" |
 | Allen-Rochow Scale | Column x_ar_1958 in chemical_elements.csv, cited from "A scale of electronegativity based on electrostatic force" |
 | Allen Scale | Column x_s_1989 in chemical_elements.csv, cited from "Electronegativity is the average one-electron energy of the valence-shell electrons in ground-state free atoms" |
+| PubChem/*.json | The data downloaded from [PubChem](https://pubchem.ncbi.nlm.nih.gov/) and generated with resonance states |
