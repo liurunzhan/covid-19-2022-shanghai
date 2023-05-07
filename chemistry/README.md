@@ -15,7 +15,7 @@
 | Allred-Rochow Scale | Column x_ar_1958 in chemical_elements.csv, cited from "A scale of electronegativity based on electrostatic force" |
 | Allen Scale | Column x_s_1989 in chemical_elements.csv, cited from "Electronegativity is the average one-electron energy of the valence-shell electrons in ground-state free atoms" |
 | Sanderson Scale | Column x_sa_we in chemical_elements.csv, cited from "WebElements" |
-| Boyd-Edgecombe Scale | Column x_be_eh in chemical_elements.csv, cited from "KnowledgeDoor" |
-| Allred Scale | Column x_a_eh in chemical_elements.csv, cited from "KnowledgeDoor" |
-| Smith Scale | Column x_sm_eh in chemical_elements.csv, cited from "KnowledgeDoor" |
+| Boyd-Edgecombe Scale | Column x_be_kd in chemical_elements.csv, cited from "KnowledgeDoor" |
+| Allred Scale | Column x_a_kd in chemical_elements.csv, cited from "KnowledgeDoor" |
+| Smith Scale | Column x_sm_kd in chemical_elements.csv, cited from "KnowledgeDoor" |
 | PubChem/\*.json | The data are downloaded from **PubChem** and generated with resonance states |
